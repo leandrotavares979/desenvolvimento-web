@@ -1,0 +1,11 @@
+.caixa{
+    border: 3px solid rgb(96, 96, 168);
+    background-color: rgb(43, 79, 95);
+    color: rgb(182, 144, 98);
+    padding: 10px;
+}
+
+#aviso{
+    width: 200px;
+    height: 100px;
+}

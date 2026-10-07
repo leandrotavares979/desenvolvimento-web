@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: rgb(187, 120, 53);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#principal{
+    width: 80%;
+    margin: 30px auto;
+    background-color: rgb(55, 106, 153);
+    border: 1px solid blanchedalmond;
+}
+#topo_geral{
+    background-color: antiquewhite;
+    color: black;
+    padding: 25px;
+    text-align: center;
+}
+nav{
+    background-color: peru;
+    padding: 10px; 
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+nav a{
+    display: block;
+    color: azure;
+    padding: 10px 18px;
+    border: 1px solid black;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: peru;
+    color: brown;
+}
